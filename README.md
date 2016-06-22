@@ -7,3 +7,4 @@ things I learned, remembered, did before - should I need them
 
 - ManagersLvls_plus_TopBossNames: SQL query for managers and subordinates including Top Manager name for each employee.
 
+- Multistring_Replace.R: simple formula for replacing strings from set A with strings from set B in a .txt file. set A is prepopulated with html URL encoding of characters as per http://www.w3schools.com/tags/ref_urlencode.asp (translated from Windows-1252 encoding)
