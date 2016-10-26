@@ -16,7 +16,6 @@
 ##	\Unnnnnnnn	Unicode character with given code (1--8 hex digits)
 
 ## URL encoding reference - as used by Google Analytics 
-setwd("C:/Users/krzysztof.godowski/Documents/RWorkingDirectory")
 
 # WARNING!!! %20 is actually a spacebar, however Klipfolio cannot process it when the spacebar is entered, so it needs to stay as %20.
 # this is the first entry in "NewStrings vector
